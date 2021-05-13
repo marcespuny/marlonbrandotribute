@@ -1,0 +1,43 @@
+body {
+    margin-top: 0;
+    padding: 0;
+}
+main {
+    text-align: center;
+    background: rgba(0,0,3,0.2);
+    
+}
+
+    #title {
+    font-size: 35px;
+    font-family: monospace;
+    color: rgba(0,0,3,0.5);
+}
+img {
+    border-radius: 30%;
+    border: 1px solid black;
+}
+
+#img-caption {
+    color: rgba(0,0,3,0.5);
+    font-family: monospace;
+    font-weight: bold;
+}
+
+#tribute-info {
+margin: 0 20% 0 20%;
+padding : 20px;
+color: rgba(0,0,3,0.5);
+    font-family: monospace;
+}
+
+a{
+    color: rgba(0,0,3,0.5);
+    font-family: monospace;
+    text-decoration: none; 
+    font-weight: bold;  
+}
+
+a:hover {
+    text-decoration: underline;
+}
